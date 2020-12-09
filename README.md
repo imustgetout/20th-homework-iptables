@@ -8,4 +8,6 @@
 5) дефолт в инет оставить через inetRouter
 
 * реализовать проход на 80й порт без маскарадинга 
+
+
 ![alt text](https://github.com/imustgetout/20th-homework-iptables/blob/main/iptables(1).png)
