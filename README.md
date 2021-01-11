@@ -10,7 +10,7 @@
 
 * реализовать проход на 80й порт без маскарадинга 
 
-Схема стенда:
+
 ![alt text](https://github.com/imustgetout/20th-homework-iptables/blob/main/iptables.png)
 
 ### Решение:
